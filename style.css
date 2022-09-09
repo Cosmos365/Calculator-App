@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    color: #12000F;
+}
+
+.ibox {
+    width: 200px;
+    background-color: #B6DFEB;
+    margin-left: 20px;
+}
+
+
+#yes {
+    background: radial-gradient(rgb(255, 255, 255), rgb(228, 228, 228), rgb(205, 205, 205), rgb(173, 173, 173));
+    height: 250px;
+    width: 600px;
+    position: relative;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    margin-left: center;
+    margin-right: center;
+}
